@@ -1,0 +1,4 @@
+this is step c of the git_ex2.txt file
+that will be added to my lab env
+
+
