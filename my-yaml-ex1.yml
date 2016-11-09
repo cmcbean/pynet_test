@@ -1,0 +1,29 @@
+---
+
+rtr1:
+    ip: 184.105.247.70
+    device_type: cisco_ios
+    username: pyclass
+    password: 88newclass
+
+rtr2:
+    ip: 184.105.247.71
+    device_type: cisco_ios
+    username: pyclass
+    password: 88newclass
+
+rtr3:
+    ip: 184.105.247.72
+    device_type: cisco_ios
+    username: pyclass
+    password: 88newclass
+
+rtr4:
+    ip: 184.105.247.73
+    device_type: cisco_ios
+    username: pyclass
+    password: 88newclass
+
+
+
+
