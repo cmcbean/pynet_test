@@ -1,0 +1,17 @@
+@@ -23,13 +23,13 @@
+ !
+ clock timezone America/Los_Angeles
+ !
+-vlan 473
++vlan 473,703
+    name blue1
+ !
+-vlan 474
++vlan 474,704
+    name blue2
+ !
+-vlan 475
++vlan 475,705
+    name blue3
+ !
+ vlan 701

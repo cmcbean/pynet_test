@@ -33,7 +33,7 @@ def main():
     devices = NetworkDevice.objects.all()
     for a_device in devices:
         my_thread = threading.Thread(target=remote_cmd, args=(a_device, my_queue))
-        my_thread.start
+        my_thread.start()
 
     main_thread = threading.currentThread()
     for some_thread in threading.enumerate():
